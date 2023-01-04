@@ -5,6 +5,7 @@ import About from "./pages/about/about";
 import Header from "./components/header/header";
 import Footer from "./components/footer/footer";
 import HooksPage from "./pages/hooks/hooks";
+
 function App() {
   return (
     <div className="App">
