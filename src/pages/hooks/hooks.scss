@@ -1,0 +1,30 @@
+.hooks {
+  max-width: calc(100% - 60px);
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: auto;
+  margin-left: auto;
+  .hooks-use-state {
+    width: 33.3%;
+  }
+  .hooks-use-effect {
+    width: 33.3%;
+  }
+  .hooks-use-ref {
+    width: 33.3%;
+  }
+  .hooks-use-memo {
+    width: 33.3%;
+  }
+  .hooks-use-callback {
+    width: 33.3%;
+  }
+  p {
+    font-size: 25px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+ 
+    margin-top: 0;
+  }
+}

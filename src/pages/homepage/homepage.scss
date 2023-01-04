@@ -1,0 +1,21 @@
+.home {
+  padding-top: 100px;
+  h1 {
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  .links {
+    padding-left: 70px;
+    display: flex;
+    flex-direction: column;
+    a {
+      margin-right: 15px;
+      font-size: 25px;
+      text-decoration: none;
+      color: orangered;
+      padding-bottom: 10px;
+    }
+  }
+}
