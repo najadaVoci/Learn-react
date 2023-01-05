@@ -1,6 +1,5 @@
 import React from "react";
 import "./useEffect.scss";
-
 import NewData from "./components";
 import { fakeData } from "./fakeData";
 export default function UseEffect() {
