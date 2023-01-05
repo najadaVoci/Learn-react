@@ -5,8 +5,10 @@ function Homepage() {
       <h1>Resource Library</h1>
       <div className="links">
         <a href="/hooks">Hooks</a>
-        <a href="/todo">Todo</a>
-        <a href="/todo-app">Todo App</a>
+        <a href="/calculate">Calculate the sum of two numbers</a>
+        <a href="/fetch">Fetch Api</a>
+        <a href="/time">Current date and time</a>
+        <a href="/accordion">Accordion</a>
       </div>
     </div>
   );
